@@ -69,4 +69,6 @@ client. The response is sent to the client through the web server.
 ## Conclusion
 
 We have learned about the MVC architecture and how it is implemented in Spring.
-In the next few lessons, we will building our own API with Spring Web.
+In the next few lessons, we will create our own API with the Spring Web
+dependency.
+
