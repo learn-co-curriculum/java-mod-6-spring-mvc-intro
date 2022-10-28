@@ -72,3 +72,7 @@ We have learned about the MVC architecture and how it is implemented in Spring.
 In the next few lessons, we will create our own API with the Spring Web
 dependency.
 
+## References
+
+-[Spring Web MVC Documentation](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html)
+
